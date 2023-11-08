@@ -8,4 +8,4 @@ This is a web app for getting updates and info about cryptocurrency and the mark
 4. Coingecko Api
 
 # Follow me on
-Twitter - (@fred_chizim) (https://www.twitter.com/fred_chizim)
+Twitter - [@fred_chizim] (https://www.twitter.com/fred_chizim)
